@@ -1,0 +1,321 @@
+Symptoms: Sensitivity to light, throbbing headache, nausea  
+Condition: Migraine  
+Medicine: Naproxen, Sumatriptan  
+Recommendation: If these symptoms are frequent or disabling, consult a neurologist.
+
+Symptoms: Sore throat, mild fever, fatigue  
+Condition: Common Flu  
+Medicine: Paracetamol, Ibuprofen  
+Recommendation: Rest and plenty of fluids. No doctor needed unless symptoms persist for more than 5 days.
+
+Symptoms: Chest tightness, coughing, wheezing  
+Condition: Asthma  
+Medicine: Albuterol, Budesonide  
+Recommendation: Please consult a pulmonologist for long-term management.
+
+Symptoms: Increased thirst, frequent urination, blurred vision  
+Condition: Diabetes  
+Medicine: Metformin, Glipizide  
+Recommendation: Consult a diabetologist for diagnosis and blood sugar monitoring.
+
+Symptoms: Sharp pain in the lower abdomen, nausea, and loss of appetite  
+Condition: Appendicitis  
+Medicine: Antibiotics (Amoxicillin, Metronidazole) — Surgery may be required  
+Recommendation: Urgently consult a surgeon or emergency department.
+
+Symptoms: Red, itchy patches on the skin with flaking  
+Condition: Eczema  
+Medicine: Hydrocortisone cream, Cetirizine  
+Recommendation: For severe cases, consult a dermatologist.
+
+Symptoms: Burning sensation in chest, acid reflux after meals  
+Condition: GERD (Gastroesophageal Reflux Disease)  
+Medicine: Omeprazole, Ranitidine  
+Recommendation: Modify diet and lifestyle; consult a gastroenterologist if persistent.
+
+Symptoms: Sudden chest pain, shortness of breath, and rapid heartbeat  
+Condition: Pulmonary Embolism  
+Medicine: Heparin, Warfarin  
+Recommendation: Seek emergency care immediately.
+
+Symptoms: Joint pain, morning stiffness, and fatigue  
+Condition: Rheumatoid Arthritis  
+Medicine: Methotrexate, Etanercept  
+Recommendation: Visit a rheumatologist for diagnosis and treatment plan.
+
+Symptoms: Abdominal cramping, diarrhea, and weight loss  
+Condition: Crohn’s Disease  
+Medicine: Mesalamine, Infliximab  
+Recommendation: Consult a gastroenterologist for personalized treatment.
+
+Symptoms: Headache, stiff neck, fever, and confusion  
+Condition: Meningitis  
+Medicine: Ceftriaxone, Vancomycin  
+Recommendation: Emergency medical attention is necessary.
+
+Symptoms: Persistent sadness, loss of interest, and sleep disturbances  
+Condition: Depression  
+Medicine: Sertraline, Fluoxetine  
+Recommendation: Consult a psychiatrist or mental health professional.
+
+Symptoms: Painful urination, frequent urge to urinate, and cloudy urine  
+Condition: Urinary Tract Infection (UTI)  
+Medicine: Nitrofurantoin, Trimethoprim  
+Recommendation: See a general physician if symptoms last more than 2 days.
+
+Symptoms: Frequent nosebleeds, easy bruising, and prolonged bleeding  
+Condition: Von Willebrand Disease  
+Medicine: Desmopressin, clotting factor concentrates  
+Recommendation: Consult a hematologist for proper care.
+
+Symptoms: Sudden numbness, slurred speech, and difficulty walking  
+Condition: Stroke  
+Medicine: Tissue Plasminogen Activator (tPA), aspirin  
+Recommendation: Emergency treatment is critical—call medical services immediately.
+
+Symptoms: Itchy skin, light patches, and pigment loss  
+Condition: Vitiligo  
+Medicine: Tacrolimus ointment, phototherapy  
+Recommendation: Dermatologist consultation advised.
+
+Symptoms: Dizziness upon standing, rapid heartbeat, and fatigue  
+Condition: POTS (Postural Orthostatic Tachycardia Syndrome)  
+Medicine: Beta-blockers, increased fluid intake  
+Recommendation: Cardiologist or neurologist consultation recommended.
+
+Symptoms: Pain and inflammation in the lower back and stiffness  
+Condition: Ankylosing Spondylitis  
+Medicine: NSAIDs, Adalimumab  
+Recommendation: Refer to a rheumatologist for long-term care.
+
+Symptoms: Sudden weight gain, fatigue, and depression  
+Condition: Hypothyroidism  
+Medicine: Levothyroxine  
+Recommendation: Endocrinologist evaluation is necessary.
+
+Symptoms: Itchy scalp, hair loss, and flaking  
+Condition: Psoriasis  
+Medicine: Coal tar shampoo, corticosteroids  
+Recommendation: Consult a dermatologist for flare management.
+
+Symptoms: Swollen tonsils, difficulty swallowing, and sore throat  
+Condition: Tonsillitis  
+Medicine: Amoxicillin, Ibuprofen  
+Recommendation: If recurrent, consult an ENT specialist.
+
+Symptoms: Uncontrollable blinking, vocal tics, and repetitive movements  
+Condition: Tourette Syndrome  
+Medicine: Haloperidol, Clonidine  
+Recommendation: Neurologist consultation can help manage symptoms.
+
+Symptoms: Frequent eye pressure, blurred vision, and tunnel vision  
+Condition: Glaucoma  
+Medicine: Timolol, Latanoprost  
+Recommendation: Eye pressure testing by an ophthalmologist is crucial.
+
+Symptoms: Swelling in joints, rash, and fever in children  
+Condition: Juvenile Idiopathic Arthritis  
+Medicine: Methotrexate, Naproxen  
+Recommendation: Pediatric rheumatologist should assess symptoms.
+Symptoms: Yellowing of skin and eyes, abdominal pain, and fatigue  
+Condition: Hepatitis  
+Medicine: Tenofovir, Entecavir  
+Recommendation: Liver function tests are essential; please consult a hepatologist.
+
+Symptoms: Puffy face, brittle nails, and weight gain  
+Condition: Hashimoto’s Thyroiditis  
+Medicine: Levothyroxine  
+Recommendation: Visit an endocrinologist for hormone level evaluation.
+
+Symptoms: Red eyes, fever, swollen hands and feet in children  
+Condition: Kawasaki Disease  
+Medicine: Intravenous immunoglobulin (IVIG), Aspirin  
+Recommendation: Immediate pediatric care is required.
+
+Symptoms: Sudden mood swings, racing thoughts, and risky behavior  
+Condition: Bipolar Disorder  
+Medicine: Lithium, Valproate  
+Recommendation: Psychiatric consultation is essential for ongoing support.
+
+Symptoms: Rash after gluten intake, bloating, and abdominal discomfort  
+Condition: Celiac Disease  
+Medicine: Gluten-free diet, multivitamin supplements  
+Recommendation: Consult a gastroenterologist for proper diagnosis.
+
+Symptoms: Difficulty concentrating, hyperactivity, and impulsivity  
+Condition: ADHD  
+Medicine: Methylphenidate, Atomoxetine  
+Recommendation: For children or adults, consult a mental health specialist.
+
+Symptoms: Blurred vision, eye pain, and halos around lights  
+Condition: Glaucoma  
+Medicine: Timolol, Latanoprost  
+Recommendation: An ophthalmologist should monitor your eye pressure.
+
+Symptoms: Sensitivity to sound, facial twitching, and vocal tics  
+Condition: Tourette Syndrome  
+Medicine: Haloperidol, Clonidine  
+Recommendation: A neurologist can guide long-term management.
+
+Symptoms: Cramping after eating, bloating, and alternating diarrhea and constipation  
+Condition: Irritable Bowel Syndrome (IBS)  
+Medicine: Dicyclomine, fiber supplements  
+Recommendation: Diet changes and gastroenterologist consultation are helpful.
+
+Symptoms: Swollen lymph nodes, fever, and night sweats  
+Condition: Lymphoma  
+Medicine: Chemotherapy, targeted therapy  
+Recommendation: Consult an oncologist promptly.
+
+Symptoms: Visual disturbances, numbness in limbs, and balance issues  
+Condition: Multiple Sclerosis  
+Medicine: Interferon beta, Glatiramer acetate  
+Recommendation: A neurologist should perform diagnostic imaging and monitoring.
+
+Symptoms: Persistent sore or lump on skin, changes in pigmentation  
+Condition: Skin Cancer  
+Medicine: Varies by type — excision, radiation, chemotherapy  
+Recommendation: Dermatology consultation is crucial for biopsy and treatment planning.
+
+Symptoms: Red rash across cheeks and nose, joint pain, and fatigue  
+Condition: Systemic Lupus Erythematosus (SLE)  
+Medicine: Hydroxychloroquine, Prednisolone  
+Recommendation: A rheumatologist can help with diagnosis and management.
+
+Symptoms: Eye pressure, blurred vision, and gradual tunnel vision  
+Condition: Glaucoma  
+Medicine: Latanoprost, Brimonidine  
+Recommendation: Please schedule an eye exam with an ophthalmologist.
+
+Symptoms: Sudden memory loss, confusion, and trouble speaking  
+Condition: Stroke  
+Medicine: Tissue plasminogen activator (tPA), Aspirin  
+Recommendation: Emergency medical treatment is absolutely necessary.
+Symptoms: Persistent bloating, gas, and abdominal discomfort  
+Condition: Lactose Intolerance  
+Medicine: Lactase supplements  
+Recommendation: Dietary adjustment and consultation with a nutritionist may help manage symptoms.
+
+Symptoms: Rapid weight gain, irregular periods, and facial hair in women  
+Condition: PCOS (Polycystic Ovary Syndrome)  
+Medicine: Metformin, Spironolactone  
+Recommendation: A gynecologist should assess hormonal balance and treatment options.
+
+Symptoms: Pain during movement, joint stiffness, and reduced flexibility  
+Condition: Osteoarthritis  
+Medicine: Ibuprofen, Celecoxib  
+Recommendation: Consult an orthopedic specialist or physiotherapist.
+
+Symptoms: Fatigue, muscle cramps, and pale skin  
+Condition: Iron-Deficiency Anemia  
+Medicine: Ferrous sulfate, iron-rich foods  
+Recommendation: A general physician can test iron levels and advise dietary changes.
+
+Symptoms: Sudden high fever, rash, and joint pain  
+Condition: Dengue Fever  
+Medicine: Paracetamol (avoid NSAIDs)  
+Recommendation: Immediate medical attention is required, especially for low platelet counts.
+
+Symptoms: Painful red nodules on legs, fever, and fatigue  
+Condition: Erythema Nodosum  
+Medicine: NSAIDs, potassium iodide  
+Recommendation: Dermatologist consultation for underlying causes and management.
+
+Symptoms: Nausea after fatty meals, right upper abdominal pain  
+Condition: Gallstones  
+Medicine: Ursodiol (for non-surgical cases)  
+Recommendation: Ultrasound and surgical evaluation may be necessary.
+
+Symptoms: Tingling in hands and feet, loss of coordination  
+Condition: Peripheral Neuropathy  
+Medicine: Gabapentin, Pregabalin  
+Recommendation: Neurologist should be consulted for nerve function assessment.
+
+Symptoms: Frequent sneezing, runny nose, itchy eyes  
+Condition: Allergic Rhinitis  
+Medicine: Cetirizine, Loratadine  
+Recommendation: Environmental changes and allergy testing may help—consult an allergist.
+
+Symptoms: Severe lower pelvic pain, nausea, and heavy periods  
+Condition: Endometriosis  
+Medicine: Naproxen, hormonal therapy  
+Recommendation: Gynecologist consultation is strongly recommended.
+
+Symptoms: Fatigue, swelling in legs, and difficulty breathing  
+Condition: Congestive Heart Failure  
+Medicine: Furosemide, Enalapril  
+Recommendation: Cardiologist evaluation is urgently required.
+
+Symptoms: Painful mouth ulcers, joint inflammation, and skin lesions  
+Condition: Behçet’s Disease  
+Medicine: Colchicine, corticosteroids  
+Recommendation: A rheumatologist or dermatologist can guide treatment.
+
+Symptoms: Pain behind the eyes, headache, and fever  
+Condition: Sinusitis  
+Medicine: Amoxicillin, nasal decongestants  
+Recommendation: ENT specialist may be needed for chronic cases.
+
+Symptoms: Sudden chest pain during activity and rapid heartbeat  
+Condition: Angina  
+Medicine: Nitroglycerin, Aspirin  
+Recommendation: Cardiologist consultation is necessary to avoid complications.
+
+Symptoms: Rash on face and body after sun exposure, fatigue  
+Condition: Photosensitivity Reaction  
+Medicine: Antihistamines, sunscreen  
+Recommendation: Dermatologist should be consulted for testing and care.
+
+Symptoms: Weakness in limbs, slurred speech, and muscle twitching  
+Condition: ALS (Amyotrophic Lateral Sclerosis)  
+Medicine: Riluzole  
+Recommendation: Neurological evaluation is essential.
+Symptoms: Pain around the temples, tension after stress or screen use  
+Condition: Headache  
+Medicine: Paracetamol, Ibuprofen  
+Recommendation: Rest, hydration, and short breaks from screen use can help. No doctor needed unless the pain is severe or persistent.
+
+Symptoms: Runny nose, sneezing, and mild fatigue  
+Condition: Common Cold  
+Medicine: Cetirizine, steam inhalation, Paracetamol  
+Recommendation: Rest and fluids usually do the trick. See a doctor only if symptoms worsen or include high fever.
+
+Symptoms: Feeling cold, body aches, and mild shivering  
+Condition: Low-Grade Fever or Viral Infection  
+Medicine: Paracetamol, warm fluids  
+Recommendation: Monitor temperature and rest. If fever exceeds 101°F or lasts more than 3 days, consult a doctor.
+
+Symptoms: Dry cough, slight throat irritation, and fatigue  
+Condition: Throat Infection or Mild Flu  
+Medicine: Lozenges, warm salt water gargle, Paracetamol  
+Recommendation: Home remedies often help. Doctor visit only if cough persists beyond 5 days.
+
+Symptoms: Fatigue, sleepy feeling, and low energy  
+Condition: Tiredness or Dehydration  
+Medicine: ORS (oral rehydration), rest, healthy snacks  
+Recommendation: No medication needed unless symptoms are prolonged. If fatigue continues for more than a week, consult a physician.
+
+Symptoms: Mild eye strain, dryness, and headache after screen time  
+Condition: Digital Eye Strain  
+Medicine: Lubricating eye drops  
+Recommendation: Follow 20-20-20 rule (every 20 minutes, look 20 feet away for 20 seconds). No doctor needed unless discomfort persists.
+
+Symptoms: Light sneezing, throat tickle, and feeling under the weather  
+Condition: Mild Allergic Reaction or Early Cold  
+Medicine: Cetirizine or Loratadine  
+Recommendation: Monitor symptoms at home. Visit a doctor only if breathing or throat discomfort increases.
+
+Symptoms: Dull head pressure and lack of focus after skipping meals  
+Condition: Hunger Headache  
+Medicine: Eat small, nutritious meals and hydrate  
+Recommendation: Not a disease — relief usually comes with proper food and fluids. No need for medical treatment unless recurrent.
+
+Symptoms: Feeling chilled in AC, mild shivers  
+Condition: Environmental Cold Sensitivity  
+Medicine: Warm fluids, layered clothing  
+Recommendation: No medication needed. If chills come with fever or fatigue, consult a doctor.
+
+Symptoms: Nose congestion and light headache  
+Condition: Sinus Pressure  
+Medicine: Steam inhalation, Paracetamol, nasal spray  
+Recommendation: Common and self-manageable. See an ENT if symptoms persist or include facial swelling.
